@@ -1,4 +1,4 @@
 # docs
 Documentação do Projeto
 
-[assista nosso video](Pitch PI - Citro Fatec Registro 1DSM 2023.2 ‐ Feito com o Clipchamp.mp4)
+[assista nosso video](https://github.com/TeamConnexus/docs/blob/main/Pitch%20PI%20-%20Citro%20Fatec%20Registro%201DSM%202023.2%20%E2%80%90%20Feito%20com%20o%20Clipchamp.mp4?raw=true)
